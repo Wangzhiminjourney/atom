@@ -7,7 +7,7 @@ Visit [atom.io](https://atom.io) to learn more or visit the [Atom forum](https:/
 Visit [issue #3684](https://github.com/atom/atom/issues/3684) to learn more
 about the Atom 1.0 roadmap.
 
-## Installing
+## Installingl
 
 ### OS X
 
